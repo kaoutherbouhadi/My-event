@@ -20,9 +20,7 @@
                 "time": 7, 
                 "anne": 2005
                }
-      ]
-    },
-{
+      ],
         "menus": [
         {  
            "id": 2,
@@ -58,6 +56,6 @@
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
           "prix": 115,
           "image":"https://www.rotellasbakery.com/wp-content/uploads/2015/07/Bacon-Brioche-300x250.jpeg"
-        },
+        }
               ]
                 }
