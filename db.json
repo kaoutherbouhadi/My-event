@@ -26,21 +26,21 @@
            "id": 2,
           "name": "Hamburger",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
-          "prix": 115,
+          "prix": 35,
           "image":"https://www.rotellasbakery.com/wp-content/uploads/2015/07/Bacon-Brioche-300x250.jpeg"
         },
         {
            "id": 1,
           "name": "Salade",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
-          "prix": 115,
+          "prix": 50,
           "image":"https://th.bing.com/th/id/R.6006f1f4510dc4d59f9d393a127d312d?rik=II80uC%2bycaVuYQ&pid=ImgRaw&r=0"
         },
         {
            "id": 3,
           "name": "pizza",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
-          "prix": 115,
+          "prix": 40,
           "image":"https://th.bing.com/th/id/R.9150b98d1c99440ff3fbe232842ecc15?rik=8vaAmzjld5ZWZg&riu=http%3a%2f%2fwww.garlicrecipes.ca%2fwp-content%2fuploads%2f2013%2f11%2fPizza-.jpg&ehk=JVfooPjWaaEeRV5XfnfmdMgonBP%2b0W2SLK%2bt1vE6y1E%3d&risl=&pid=ImgRaw&r=0"
         },
         {
@@ -54,7 +54,7 @@
            "id": 5,
           "name": "Ravioli",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
-          "prix": 115,
+          "prix": 95,
           "image":"https://th.bing.com/th/id/R.b4da657d48f5bd92c47cef2c35673a30?rik=OCIN33qHVrigzQ&pid=ImgRaw&r=0"
         }
               ],
