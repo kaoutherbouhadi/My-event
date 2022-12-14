@@ -38,14 +38,14 @@
         },
         {
            "id": 3,
-          "name": "pasta",
+          "name": "pizza",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
           "prix": 115,
-          "image":"https://www.rotellasbakery.com/wp-content/uploads/2015/07/Bacon-Brioche-300x250.jpeg"
+          "image":"https://th.bing.com/th/id/R.9150b98d1c99440ff3fbe232842ecc15?rik=8vaAmzjld5ZWZg&riu=http%3a%2f%2fwww.garlicrecipes.ca%2fwp-content%2fuploads%2f2013%2f11%2fPizza-.jpg&ehk=JVfooPjWaaEeRV5XfnfmdMgonBP%2b0W2SLK%2bt1vE6y1E%3d&risl=&pid=ImgRaw&r=0"
         },
         {
            "id": 4,
-          "name": "pizza",
+          "name": "pasta",
           "description":"ground meat ,onion,white bread or 8-10 centimeter piece of French bread,egg",
           "prix": 115,
           "image":"https://th.bing.com/th/id/R.2b0c63406ddadf4203beee8ffc1cf686?rik=Q5mi%2blRUabgP%2fw&pid=ImgRaw&r=0"
